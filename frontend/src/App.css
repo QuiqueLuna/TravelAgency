@@ -1,0 +1,130 @@
+.outlineBox{
+    box-shadow: 0px 5px 30px 0px #000000;
+}
+
+.signup-form{
+    width: 300px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.3);
+    border-radius: 30px;
+    background: white;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.signup-form h1{
+    color: #3a3a3a;
+    margin-bottom: 25px;
+}
+
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px;
+    width: 90%;
+    border: 1px solid #999;
+    outline: none;
+}
+
+.buttonLogIn{
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #3a3a3a;
+}
+
+hr{
+    margin-top: 20px;
+    width: 80%;
+}
+
+.or{
+    background: white;
+    width: 30%;
+    margin: -19px auto 10px;
+}
+
+.fa {
+    padding: 9px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 5px;
+  }
+
+  .fa:hover {
+
+    opacity: 0.7;
+  }
+
+.fa-facebook {
+    color: black 
+
+}
+.fa-house{
+  color: black;
+}
+
+.fa-twitter {
+  color: black;
+}
+
+.fa-instagram {
+  color: black;
+}
+
+.blog-footer {
+  padding: 2.5rem 0;
+  color: rgb(32, 32, 32);
+  text-align: center;
+  background-color: #cecece;
+  border-top: .05rem solid #e5e5e5;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
+
+.country-text{
+  color: black;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.banner-class{
+  position: relative;
+}
+
+.text-block{
+  display: inline-block;
+  position: absolute!important;
+  text-align: center;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  height: 35%;
+}
+.textB{
+  margin-top: 5%;
+  font-size: 3vw;
+  font-weight: 600;
+  margin-bottom: 4%;
+}
+.textIn{
+  font-size: 2vw;
+  font-weight: 400;
+}
+
+
+
+.frooms{
+  text-align: center;
+}
